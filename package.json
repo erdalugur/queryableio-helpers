@@ -17,5 +17,14 @@
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.3",
     "babel-preset-es2015": "^6.24.1"
-  }
+  }, 
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/erdalugur/queryableio-helpers.git"
+  },
+  "keywords": ["queryableio"],
+  "bugs": {
+    "url": "https://github.com/erdalugur/queryableio-helpers/issues"
+  },
+  "homepage": "http://www.queryableio.com"
 }
