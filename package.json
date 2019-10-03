@@ -1,6 +1,6 @@
 {
   "name": "queryableio-web",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "QUERYABLEIO hepler web package",
   "main": "lib/index.js",
   "scripts": {
