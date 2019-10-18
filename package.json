@@ -1,6 +1,6 @@
 {
   "name": "queryableio-web",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "QUERYABLEIO hepler web package",
   "main": "lib/index.js",
   "scripts": {
@@ -17,12 +17,14 @@
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.3",
     "babel-preset-es2015": "^6.24.1"
-  }, 
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/erdalugur/queryableio-helpers.git"
   },
-  "keywords": ["queryableio"],
+  "keywords": [
+    "queryableio"
+  ],
   "bugs": {
     "url": "https://github.com/erdalugur/queryableio-helpers/issues"
   },
