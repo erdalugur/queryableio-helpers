@@ -4,7 +4,7 @@
   "description": "QUERYABLEIO hepler web package",
   "main": "lib/index.js",
   "scripts": {
-    "prePublish": "npm publish"
+    "deploy": "npm publish"
   },
   "babel": {
     "presets": [
